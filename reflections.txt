@@ -13,4 +13,23 @@ through sequential checking or keeping aside of commits and playing
 or running the programme.
 9. I will like to use git for sharing my work with developers and
  to house my portfolio.
+Lesson 2
+Recall: git init for initializing repositories
+	git status for getting repository's status
+	ls -a for listing all files including dot files in a directory
+	ls -l for listing files in a directory in a long form
+10. git add to stage files to be commited
+11. git reset to unstage files that were mistakenly staged
+12. git commit to commit staged files
+13. git branch easy_mode to make roids break into two not three.
+14. branching because it is not a major change
+15. committing because it is a logical change.
+16. The branching to easy mode here makes it easy to create another 
+unpopular version of our game.
+17. git branch easy_mode creates the branch easy_mode
+18. git checkout easy_mode moves into the branch easy_mode
+19. After working on multiple branches, they can be merged but conflict may arise.
+20. You can use yUML and gliffy for diagramming
+21. git log -n 1 for seeing merges after merging.
+
 
