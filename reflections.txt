@@ -1,0 +1,16 @@
+1. Now I can compare text files using windows or mac. 
+2. Starting the course again to learn how to push commits 
+and possibly access them.
+3. Having access to version control could reduce my worries
+and make sure I can go back to some earlier codes.
+4. git diff oldcommitSHA newcommitSHA is useful for comparison.
+5. Each commit should reflect a logical change.
+6. Include README.txt file of your project in your repo describing
+your project to those that may work on it. 
+7. git log is useful to view commit history. It takes flags.
+8. git checkout SHA ca be used to locate bugs in the programme
+through sequential checking or keeping aside of commits and playing 
+or running the programme.
+9. I will like to use git for sharing my work with developers and
+ to house my portfolio.
+
